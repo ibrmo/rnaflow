@@ -1,7 +1,7 @@
 #!/usr/bin/env nextflow
 
-XX = "20"
-YY = "07"
+XX = "21"
+YY = "04"
 ZZ = "1"
 
 if ( nextflow.version.toString().tokenize('.')[0].toInteger() < XX.toInteger() ) {
